@@ -1,6 +1,12 @@
 kdv-cli 
 > 前端脚手架命令工具
 
+如何安装
+```
+npm install kdv-cli -g
+```
+
+
 初始化命令
 ```
 kdv-cli init <projectName>
