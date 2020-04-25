@@ -1,0 +1,21 @@
+{
+  "name": "kdv-cli",
+  "version": "0.0.2",
+  "main": "index.js",
+  "author": "tree",
+  "private": false,
+  "bin": {
+    "kdv-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.0",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
